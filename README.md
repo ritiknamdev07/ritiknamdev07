@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ritiknamdev07
+- 👋 Hi, I’m Ritik Namdev
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Front-End web development
-- 💞️ I’m looking to collaborate on css,bootstrap projects
+- 💞️ I’m looking to collaborate on HTML,CSS,Bootstrap,React,javaScript,node.js projects
 - 📫 How to reach me E-main = ritiknamdev5178@gmail.com
 
 <!---
