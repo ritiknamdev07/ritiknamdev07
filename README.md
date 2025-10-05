@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ritik Namdev
-- 🌱 I’m  Front-End development
-- 💞️ I’m looking to collaborate on HTML,CSS,Bootstrap,React,javaScript projects
+- 💞️ Frontend Developer | React.js | Next.js | Tailwind CSS | Open Source Enthusiast
 - 📫 How to reach me E-main = ritiknamdev3000@gmail.com
 
 <!---
