@@ -8,6 +8,26 @@
 - **Styling:** Tailwind CSS
 - **Interests:** Open Source, UI/UX, Performance Optimization
 
+- ### 🛠️ Skills & Technologies
+
+**Languages**
+- JavaScript (ES6+), HTML5, CSS3, TypeScript, Python
+
+**Frameworks & Libraries**
+- React.js, Next.js
+- Tailwind CSS, Material UI
+- Socket.IO, Axios
+- RESTful APIs
+
+**State Management**
+- Redux, Context API
+
+**Tools & Platforms**
+- Git, GitHub, GitLab
+- VS Code, Cursor, npm 
+- AI Tools: GitHub Copilot, ChatGPT
+- AI-assisted Development & Debugging
+
 ### 🌱 What I Do
 - Build responsive and high-performance web apps
 - Write clean, maintainable, and scalable code
