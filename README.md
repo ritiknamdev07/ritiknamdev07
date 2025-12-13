@@ -9,7 +9,7 @@
 
 **Frameworks & Libraries**
 - React.js, Next.js
-- Tailwind CSS, Material UI
+- Tailwind CSS, Material UI, Shadcn UI
 - Socket.IO, Axios
 - RESTful APIs
 
