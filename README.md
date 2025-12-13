@@ -2,12 +2,6 @@
 
 🚀 **Software Developer** passionate about building modern, scalable web applications.
 
-### 💻 Tech Stack
-- **Frontend:** React.js, Next.js
-- **Languages:** JavaScript, TypeScript
-- **Styling:** Tailwind CSS
-- **Interests:** Open Source, UI/UX, Performance Optimization
-
 - ### 🛠️ Skills & Technologies
 
 **Languages**
@@ -36,6 +30,7 @@
 ### 📫 Connect With Me
 - **Email:** [ritiknamdev3000@gmail.com](mailto:ritiknamdev3000@gmail.com)
 - **Portfolio:** [ritiknamdev-portfolio-next-js.vercel.app](https://ritiknamdev-portfolio-next-js.vercel.app/)
+- **Interests:** Open Source, UI/UX, Performance Optimization
 
 ---
 
